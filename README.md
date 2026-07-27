@@ -17,8 +17,8 @@ Arcade 2D mini game project in Python demonstrating user input handling, sprite 
 
 ### Quick Start
 ```bash
-git clone https://github.com/Bargaisl/python-arcade-mini-game.git
-cd python-arcade-mini-game
+git clone https://github.com/Bargaisl/two-towers-game.git
+cd two-towers-game
 pip install pygame
 python "two towers.py"
 ```
@@ -42,8 +42,8 @@ Licensed under the [MIT License](LICENSE).
 
 ### Запуск
 ```bash
-git clone https://github.com/Bargaisl/python-arcade-mini-game.git
-cd python-arcade-mini-game
+git clone https://github.com/Bargaisl/two-towers-game.git
+cd two-towers-game
 pip install pygame
 python "two towers.py"
 ```
